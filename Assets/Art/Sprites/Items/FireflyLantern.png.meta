@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: abc92120ae9f7a642981cb938491818c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7435889983825294445
+    second: FireflyLantern_0
+  - first:
+      213: -1604832753749723656
+    second: FireflyLantern_1
+  - first:
+      213: -7316431731561386026
+    second: FireflyLantern_2
+  - first:
+      213: 4221319513816522470
+    second: FireflyLantern_3
+  - first:
+      213: -7623651500051552306
+    second: FireflyLantern_4
+  - first:
+      213: -3451055448248054920
+    second: FireflyLantern_5
+  - first:
+      213: -7919685790556333997
+    second: FireflyLantern_6
+  - first:
+      213: 6333585362281833918
+    second: FireflyLantern_7
+  - first:
+      213: -6115723925295977966
+    second: FireflyLantern_8
+  - first:
+      213: -6311798405867446371
+    second: FireflyLantern_9
+  - first:
+      213: -8791591151233546407
+    second: FireflyLantern_10
+  - first:
+      213: 2455935656376516577
+    second: FireflyLantern_11
+  - first:
+      213: -6286024989924748482
+    second: FireflyLantern_12
+  - first:
+      213: -8080261218237300196
+    second: FireflyLantern_13
+  - first:
+      213: -6175511661286963840
+    second: FireflyLantern_14
+  - first:
+      213: -1253211903946850813
+    second: FireflyLantern_15
+  - first:
+      213: -109404240204559435
+    second: FireflyLantern_16
+  - first:
+      213: 4197275066606795474
+    second: FireflyLantern_17
+  - first:
+      213: -1442030608554554268
+    second: FireflyLantern_18
+  - first:
+      213: 9209404001021983690
+    second: FireflyLantern_19
+  - first:
+      213: 8230276835735202260
+    second: FireflyLantern_20
+  - first:
+      213: -5657533447276506488
+    second: FireflyLantern_21
+  - first:
+      213: -3386859796891271165
+    second: FireflyLantern_22
+  - first:
+      213: -197621493103293264
+    second: FireflyLantern_23
+  - first:
+      213: -8238694287827645498
+    second: FireflyLantern_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireflyLantern_0
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 1194
+        height: 1372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b453de4796ec890800000000000000
+      internalID: -7435889983825294445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_1
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 763
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f5dcfc1d7ab9e0800000000000000
+      internalID: -1604832753749723656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 750
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df23e0ba10d67a90800000000000000
+      internalID: -7316431731561386026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_3
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 746
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee55787bb3259a30800000000000000
+      internalID: 4221319513816522470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_4
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 735
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ad004a59533690800000000000000
+      internalID: -7623651500051552306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_5
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 709
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8ff2ba536b10d0800000000000000
+      internalID: -3451055448248054920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_6
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 704
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585e29dbbf971290800000000000000
+      internalID: -7919685790556333997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_7
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb52c69845a65e750800000000000000
+      internalID: 6333585362281833918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_8
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 682
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a20601e75902ba0800000000000000
+      internalID: -6115723925295977966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_9
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd46c8accf768a0800000000000000
+      internalID: -6311798405867446371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_10
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 662
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957c1448d6efdf580800000000000000
+      internalID: -8791591151233546407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_11
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb985a77c351220800000000000000
+      internalID: 2455935656376516577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_12
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 615
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e339e42939d83c8a0800000000000000
+      internalID: -6286024989924748482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_13
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 601
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12c99aab352ddf80800000000000000
+      internalID: -8080261218237300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08545b20ddc2c4aa0800000000000000
+      internalID: -6175511661286963840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_15
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef4f4c962bb9ee0800000000000000
+      internalID: -1253211903946850813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8fa55c615b7ef0800000000000000
+      internalID: -109404240204559435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_17
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 485
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dab3b95f67bf3a30800000000000000
+      internalID: 4197275066606795474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_18
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 478
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c8ddd3dc0ecfbe0800000000000000
+      internalID: -1442030608554554268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 451
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf9f935206ecf70800000000000000
+      internalID: 9209404001021983690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 449
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d96f1d1d21d73270800000000000000
+      internalID: 8230276835735202260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 424
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882513afd476c71b0800000000000000
+      internalID: -5657533447276506488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 417
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008e3685f47ff0d0800000000000000
+      internalID: -3386859796891271165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc889f8c48e14df0800000000000000
+      internalID: -197621493103293264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireflyLantern_24
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb4ef812374aad80800000000000000
+      internalID: -8238694287827645498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireflyLantern_0: -7435889983825294445
+      FireflyLantern_1: -1604832753749723656
+      FireflyLantern_10: -8791591151233546407
+      FireflyLantern_11: 2455935656376516577
+      FireflyLantern_12: -6286024989924748482
+      FireflyLantern_13: -8080261218237300196
+      FireflyLantern_14: -6175511661286963840
+      FireflyLantern_15: -1253211903946850813
+      FireflyLantern_16: -109404240204559435
+      FireflyLantern_17: 4197275066606795474
+      FireflyLantern_18: -1442030608554554268
+      FireflyLantern_19: 9209404001021983690
+      FireflyLantern_2: -7316431731561386026
+      FireflyLantern_20: 8230276835735202260
+      FireflyLantern_21: -5657533447276506488
+      FireflyLantern_22: -3386859796891271165
+      FireflyLantern_23: -197621493103293264
+      FireflyLantern_24: -8238694287827645498
+      FireflyLantern_3: 4221319513816522470
+      FireflyLantern_4: -7623651500051552306
+      FireflyLantern_5: -3451055448248054920
+      FireflyLantern_6: -7919685790556333997
+      FireflyLantern_7: 6333585362281833918
+      FireflyLantern_8: -6115723925295977966
+      FireflyLantern_9: -6311798405867446371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

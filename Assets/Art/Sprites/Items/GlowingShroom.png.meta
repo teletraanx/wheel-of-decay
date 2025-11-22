@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b7c5fccf69d6080499788457c05842d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6008156558617893215
+    second: GlowingShroom_0
+  - first:
+      213: 6240325227410965411
+    second: GlowingShroom_1
+  - first:
+      213: -6114058868907861806
+    second: GlowingShroom_2
+  - first:
+      213: 4767053054425314191
+    second: GlowingShroom_3
+  - first:
+      213: -438255711608243471
+    second: GlowingShroom_4
+  - first:
+      213: 4925367824876236934
+    second: GlowingShroom_5
+  - first:
+      213: 4340157485840494668
+    second: GlowingShroom_6
+  - first:
+      213: -3539642875795754013
+    second: GlowingShroom_7
+  - first:
+      213: 624101717840269425
+    second: GlowingShroom_8
+  - first:
+      213: -6775635685283163513
+    second: GlowingShroom_9
+  - first:
+      213: 7843316954583854600
+    second: GlowingShroom_10
+  - first:
+      213: 2297286418839628506
+    second: GlowingShroom_11
+  - first:
+      213: -7468168005024750855
+    second: GlowingShroom_12
+  - first:
+      213: -9223266963674303667
+    second: GlowingShroom_13
+  - first:
+      213: 2460308551648917400
+    second: GlowingShroom_14
+  - first:
+      213: 3055693493479182777
+    second: GlowingShroom_15
+  - first:
+      213: 3568174803474427588
+    second: GlowingShroom_16
+  - first:
+      213: 1338753196957793701
+    second: GlowingShroom_17
+  - first:
+      213: 5876452282421290524
+    second: GlowingShroom_18
+  - first:
+      213: -3032745077666488079
+    second: GlowingShroom_19
+  - first:
+      213: 4542834941266511588
+    second: GlowingShroom_20
+  - first:
+      213: 5663554037640104870
+    second: GlowingShroom_21
+  - first:
+      213: -8501651660197876717
+    second: GlowingShroom_22
+  - first:
+      213: -4995404808283485207
+    second: GlowingShroom_23
+  - first:
+      213: -2817660131753156673
+    second: GlowingShroom_24
+  - first:
+      213: 7131727672706130473
+    second: GlowingShroom_25
+  - first:
+      213: 6727984604664550151
+    second: GlowingShroom_26
+  - first:
+      213: 1211781724381001131
+    second: GlowingShroom_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GlowingShroom_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 179
+        width: 1233
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595a57be82416350800000000000000
+      internalID: 6008156558617893215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34dbe4bb61a9650800000000000000
+      internalID: 6240325227410965411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_2
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1248
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d89be63adf762ba0800000000000000
+      internalID: -6114058868907861806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_3
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83367efe79f72240800000000000000
+      internalID: 4767053054425314191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_4
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fafdc490c00be9f0800000000000000
+      internalID: -438255711608243471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_5
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1245
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680f2e5e0fb6a5440800000000000000
+      internalID: 4925367824876236934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4076ccfc365b3c30800000000000000
+      internalID: 4340157485840494668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_7
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 901
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b37cee89a0eec0800000000000000
+      internalID: -3539642875795754013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_8
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 877
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170949ba43149a800800000000000000
+      internalID: 624101717840269425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 860
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7829c3b3e3b18f1a0800000000000000
+      internalID: -6775635685283163513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_10
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ee4cae63f09dc60800000000000000
+      internalID: 7843316954583854600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_11
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 858
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae34e83d991ef10800000000000000
+      internalID: 2297286418839628506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_12
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 843
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2ef8974ccbb5890800000000000000
+      internalID: -7468168005024750855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 845
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f891409f500080800000000000000
+      internalID: -9223266963674303667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b3eaa795c42220800000000000000
+      internalID: 2460308551648917400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_15
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 829
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19c45ea01086a20800000000000000
+      internalID: 3055693493479182777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_16
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea7992414b48130800000000000000
+      internalID: 3568174803474427588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_17
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 809
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad769a80f4349210800000000000000
+      internalID: 1338753196957793701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_18
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 795
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c162141573a5d8150800000000000000
+      internalID: 5876452282421290524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_19
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 798
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ef578b6689e5d0800000000000000
+      internalID: -3032745077666488079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_20
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 783
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64c636f446b0f30800000000000000
+      internalID: 4542834941266511588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_21
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 198
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab84c3f36cf89e40800000000000000
+      internalID: 5663554037640104870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cabc5dbd0140a80800000000000000
+      internalID: -8501651660197876717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_23
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 193
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb0cfc2bc1ccaab0800000000000000
+      internalID: -4995404808283485207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_24
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 198
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf921de909a5e8d0800000000000000
+      internalID: -2817660131753156673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_25
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 188
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e876688cf8f260800000000000000
+      internalID: 7131727672706130473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 197
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d35ff95a9e5d50800000000000000
+      internalID: 6727984604664550151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowingShroom_27
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 192
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53a0bde0d11d010800000000000000
+      internalID: 1211781724381001131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GlowingShroom_0: 6008156558617893215
+      GlowingShroom_1: 6240325227410965411
+      GlowingShroom_10: 7843316954583854600
+      GlowingShroom_11: 2297286418839628506
+      GlowingShroom_12: -7468168005024750855
+      GlowingShroom_13: -9223266963674303667
+      GlowingShroom_14: 2460308551648917400
+      GlowingShroom_15: 3055693493479182777
+      GlowingShroom_16: 3568174803474427588
+      GlowingShroom_17: 1338753196957793701
+      GlowingShroom_18: 5876452282421290524
+      GlowingShroom_19: -3032745077666488079
+      GlowingShroom_2: -6114058868907861806
+      GlowingShroom_20: 4542834941266511588
+      GlowingShroom_21: 5663554037640104870
+      GlowingShroom_22: -8501651660197876717
+      GlowingShroom_23: -4995404808283485207
+      GlowingShroom_24: -2817660131753156673
+      GlowingShroom_25: 7131727672706130473
+      GlowingShroom_26: 6727984604664550151
+      GlowingShroom_27: 1211781724381001131
+      GlowingShroom_3: 4767053054425314191
+      GlowingShroom_4: -438255711608243471
+      GlowingShroom_5: 4925367824876236934
+      GlowingShroom_6: 4340157485840494668
+      GlowingShroom_7: -3539642875795754013
+      GlowingShroom_8: 624101717840269425
+      GlowingShroom_9: -6775635685283163513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

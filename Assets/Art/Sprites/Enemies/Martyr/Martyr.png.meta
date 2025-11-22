@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: badc0ccdc2d30ca478c59cfdb06c43e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7987554248615341447
+    second: Martyr_0
+  - first:
+      213: -3857107252334082555
+    second: Martyr_1
+  - first:
+      213: 3825988847511745571
+    second: Martyr_2
+  - first:
+      213: 5156568654814465355
+    second: Martyr_3
+  - first:
+      213: 8777151122777617137
+    second: Martyr_4
+  - first:
+      213: 1737303057667774147
+    second: Martyr_5
+  - first:
+      213: 6205733043784386198
+    second: Martyr_6
+  - first:
+      213: -9073626057936174050
+    second: Martyr_7
+  - first:
+      213: 2138629552814237846
+    second: Martyr_8
+  - first:
+      213: -1779510147238750197
+    second: Martyr_9
+  - first:
+      213: 2438434723890801336
+    second: Martyr_10
+  - first:
+      213: -4397404469508036119
+    second: Martyr_11
+  - first:
+      213: 8642207473288354172
+    second: Martyr_12
+  - first:
+      213: -3445457972200264106
+    second: Martyr_13
+  - first:
+      213: 9043264212500692077
+    second: Martyr_14
+  - first:
+      213: -4881408304384689076
+    second: Martyr_15
+  - first:
+      213: 4329722802620787252
+    second: Martyr_16
+  - first:
+      213: 7660778532560758283
+    second: Martyr_17
+  - first:
+      213: -4134378979851718354
+    second: Martyr_18
+  - first:
+      213: 7087480996799954190
+    second: Martyr_19
+  - first:
+      213: -1807907254128256531
+    second: Martyr_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Martyr_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d21ece44e79de60800000000000000
+      internalID: 7987554248615341447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 55
+        width: 889
+        height: 1415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5064b0cc36dc87ac0800000000000000
+      internalID: -3857107252334082555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_2
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 741
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243b8af594a81530800000000000000
+      internalID: 3825988847511745571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_3
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 746
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d4122fedfcf8740800000000000000
+      internalID: 5156568654814465355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_4
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 726
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b41d5174bec970800000000000000
+      internalID: 8777151122777617137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_5
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 723
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6dc732de32c1810800000000000000
+      internalID: 1737303057667774147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_6
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 732
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6960cade2513f1650800000000000000
+      internalID: 6205733043784386198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_7
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 734
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148cf7ac21041280800000000000000
+      internalID: -9073626057936174050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_8
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 704
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69825a15f30fdad10800000000000000
+      internalID: 2138629552814237846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_9
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 708
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0891a703f8ed47e0800000000000000
+      internalID: -1779510147238750197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_10
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 679
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba2d75467f07d120800000000000000
+      internalID: 2438434723890801336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_11
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 686
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e92245fee749f2c0800000000000000
+      internalID: -4397404469508036119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_12
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 697
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79149898e94fe770800000000000000
+      internalID: 8642207473288354172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 667
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2776aa364f20d0800000000000000
+      internalID: -3445457972200264106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_14
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 663
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3b1453e0208d70800000000000000
+      internalID: 9043264212500692077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_15
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 673
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c328d8201c14cb0800000000000000
+      internalID: -4881408304384689076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_16
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 631
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aee1af2f3461c30800000000000000
+      internalID: 4329722802620787252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_17
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 631
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06e830ac7d805a60800000000000000
+      internalID: 7660778532560758283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_18
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 642
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b813093cbf96c0800000000000000
+      internalID: -4134378979851718354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_19
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 652
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0db79e5a6acb5260800000000000000
+      internalID: 7087480996799954190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martyr_20
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 626
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de955da5ee509e6e0800000000000000
+      internalID: -1807907254128256531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Martyr_0: 7987554248615341447
+      Martyr_1: -3857107252334082555
+      Martyr_10: 2438434723890801336
+      Martyr_11: -4397404469508036119
+      Martyr_12: 8642207473288354172
+      Martyr_13: -3445457972200264106
+      Martyr_14: 9043264212500692077
+      Martyr_15: -4881408304384689076
+      Martyr_16: 4329722802620787252
+      Martyr_17: 7660778532560758283
+      Martyr_18: -4134378979851718354
+      Martyr_19: 7087480996799954190
+      Martyr_2: 3825988847511745571
+      Martyr_20: -1807907254128256531
+      Martyr_3: 5156568654814465355
+      Martyr_4: 8777151122777617137
+      Martyr_5: 1737303057667774147
+      Martyr_6: 6205733043784386198
+      Martyr_7: -9073626057936174050
+      Martyr_8: 2138629552814237846
+      Martyr_9: -1779510147238750197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
